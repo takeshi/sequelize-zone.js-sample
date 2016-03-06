@@ -1,0 +1,17 @@
+{
+  "name": "sequelize-zone.js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "sequelize": "git://github.com/takeshi/sequelize.git",
+    "sqlite3": "^3.1.1",
+    "zone.js": "^0.6.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
